@@ -4,7 +4,7 @@
 
 在 MVVM 框架中，View(视图) 和 Model(数据) 是不可以直接通讯的，在它们之间存在着 ViewModel 这个中间介充当着观察者的角色。当用户操作 View(视图)，ViewModel 感知到变化，然后通知 Model 发生相应改变；反之当 Model(数据) 发生改变，ViewModel 也能感知到变化，使 View 作出相应更新。这个一来一回的过程就是我们所熟知的双向绑定。
 
-![](http://t10.baidu.com/it/u=1581589677,2197583542&fm=173&app=25&f=JPEG?w=640&h=342&s=5926347301CA614B4E65C0CA0000E0B3)
+![](https://user-gold-cdn.xitu.io/2018/4/11/162b38ab2d635662?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
 
 
 ### MVVM 简单实现
